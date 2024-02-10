@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K2MU/ByNATMLLcDT7mcZKCLxgnDreFUnh5Kr6T4FhkfC6BD6q8dnsxhq4eh9H0jbGVjq734DuPgW1DVvjbsQ5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\verye\\source\\repos\\Bank\\Bank\\Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\verye\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\verye\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\verye\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
